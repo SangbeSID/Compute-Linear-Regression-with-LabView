@@ -23,12 +23,12 @@ Return: A array containing the best fit and the slope.
 It is the main program. It is the one which displays the results
 from data loaded. <br/> <br/>
 
-<div>
-  <img src="Linear_Regression1.png" alt="Image of the program" />
+<div align="center">
+  <img src="Linear_Regression1.png" alt="Image of the program"  height="300px" width="300px"/>
 </div>
 
 <br/> <br/>
 
-<div>
-  <img src="Linear_Regression2.png" alt="Image of the program" />
+<div align="center">
+  <img src="Linear_Regression2.png" alt="Image of the program" height="300px" width="300px" />
 </div>
