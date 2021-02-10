@@ -24,11 +24,11 @@ It is the main program. It is the one which displays the results
 from data loaded. <br/> <br/>
 
 <div>
-  <img src="Linear_Regression1.png" alt="Image of the program" height="50px" width="50px" />
+  <img src="Linear_Regression1.png" alt="Image of the program" />
 </div>
 
 <br/> <br/>
 
 <div>
-  <img src="Linear_Regression2.png" alt="Image of the program" height="50px" width="50px" />
+  <img src="Linear_Regression2.png" alt="Image of the program" />
 </div>
